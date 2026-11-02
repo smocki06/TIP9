@@ -39,7 +39,7 @@ int main() {
             result = result + c;
         }
     }
-
+}
 // //1.2 
 // #include <iostream>
 // #include <fstream>
